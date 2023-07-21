@@ -1,0 +1,808 @@
+CITY_CODE,CITY_NAME,2010,2020,2030,2040,2050
+AT001C1,Wien,3,3,3,3,3
+AT002C1,Graz,5,5,5,5,5
+AT003C1,Linz,4,5,5,5,5
+AT004C1,Salzburg,4,5,5,5,5
+AT005C1,Innsbruck,5,5,5,5,5
+AT006C1,Klagenfurt,3,3,3,3,3
+BE001C1,Bruxelles / Brussel,5,5,5,5,5
+BE002C1,Antwerpen,2,2,2,2,2
+BE003C1,Gent,5,5,5,5,5
+BE004C1,Charleroi,4,4,4,4,4
+BE005C1,Liäge,5,5,5,5,5
+BE006C1,Brugge,1,1,1,1,1
+BE007C1,Namur,5,5,5,5,5
+BE008C1,Leuven,5,5,5,5,5
+BE009C1,Mons,3,3,3,4,4
+BE010C1,Kortrijk,3,4,4,4,4
+BE011C1,Oostende,3,3,3,3,3
+BG001C1,Sofia,3,3,3,3,3
+BG002C1,Plovdiv,4,4,4,4,4
+BG003C1,Varna,1,1,1,1,1
+BG004C1,Burgas,1,1,1,1,1
+BG005C1,Pleven,2,2,2,2,2
+BG006C1,Ruse,4,3,3,3,3
+BG007C1,Vidin,5,5,5,5,5
+BG008C1,Stara Zagora,1,1,1,1,1
+BG009C1,Sliven,2,2,2,2,2
+BG010C1,Dobrich,3,3,3,3,3
+BG011C1,Shumen,1,1,1,1,1
+BG012C1,Pernik,3,3,3,3,3
+BG013C1,Yambol,5,5,5,5,5
+BG014C1,Haskovo,1,1,1,1,1
+BG015C1,Pazardzhik,5,5,5,5,5
+BG016C1,Blagoevgrad,4,4,4,4,4
+BG017C1,Veliko Tarnovo,5,5,5,4,4
+BG018C1,Vratsa,1,1,1,1,1
+CY001C1,Lefkosia,1,1,1,1,1
+CY501C1,Lemesos,1,1,1,1,1
+CZ001C1,Praha,4,4,4,4,4
+CZ002C1,Brno,5,5,5,5,5
+CZ003C1,Ostrava,4,4,4,4,4
+CZ004C1,Plzen,4,4,4,4,4
+CZ005C1,Èst° nad Labem,4,4,4,4,4
+CZ006C1,Olomouc,5,5,5,5,5
+CZ007C1,Liberec,1,1,1,1,1
+CZ008C1,CeskÇ Budejovice,5,5,5,5,5
+CZ009C1,Hradec Kr†lovÇ,5,5,5,5,5
+CZ010C1,Pardubice,5,5,5,5,5
+CZ011C1,Zl°n,4,4,4,3,3
+CZ012C1,Kladno,1,1,1,1,1
+CZ013C1,Karlovy Vary,4,4,4,3,3
+CZ014C1,Jihlava,3,3,3,3,3
+CZ015C1,Hav°rov,1,1,1,1,1
+CZ016C1,Most,2,2,2,2,2
+CZ017C1,Karvin†,3,3,3,3,3
+CZ018C2,Chomutov-Jirkov,1,1,1,1,1
+DE001C1,Berlin,5,5,5,5,5
+DE002C1,Hamburg,5,5,5,5,5
+DE003C1,MÅnchen,4,5,5,5,5
+DE004C1,Kîln,4,4,4,4,4
+DE005C1,Frankfurt am Main,5,5,5,5,5
+DE006C1,Essen,3,3,3,3,3
+DE007C1,Stuttgart,5,5,5,5,5
+DE008C1,Leipzig,5,4,4,4,4
+DE009C1,Dresden,4,4,4,4,4
+DE010C1,Dortmund,1,2,2,2,2
+DE011C1,DÅsseldorf,4,4,4,4,4
+DE012C1,Bremen,5,5,5,5,5
+DE013C1,Hannover,4,4,4,4,4
+DE014C1,NÅrnberg,3,3,3,3,3
+DE015C1,Bochum,2,2,2,2,2
+DE017C1,Bielefeld,1,1,1,1,1
+DE018C1,Halle an der Saale,5,5,5,5,5
+DE019C1,Magdeburg,4,4,4,4,4
+DE020C1,Wiesbaden,4,4,4,4,4
+DE021C1,Gîttingen,4,4,4,4,3
+DE022C1,MÅlheim a.d.Ruhr,3,3,3,3,3
+DE023C1,Moers,2,2,2,2,2
+DE025C1,Darmstadt,1,1,1,1,1
+DE026C1,Trier,5,5,5,5,5
+DE027C1,Freiburg im Breisgau,3,3,3,3,3
+DE028C1,Regensburg,5,5,4,4,4
+DE029C1,Frankfurt (Oder),3,2,2,2,2
+DE030C1,Weimar,3,2,2,2,2
+DE031C1,Schwerin,2,2,2,2,2
+DE032C1,Erfurt,4,4,4,4,4
+DE033C1,Augsburg,4,5,5,4,4
+DE034C1,Bonn,4,4,4,4,4
+DE035C1,Karlsruhe,5,5,5,5,5
+DE036C1,Mînchengladbach,2,2,2,2,2
+DE037C1,Mainz,5,5,5,5,5
+DE039C1,Kiel,3,3,3,2,2
+DE040C1,SaarbrÅcken,3,3,3,3,3
+DE041C1,Potsdam,5,5,5,5,5
+DE042C1,Koblenz,3,3,3,3,3
+DE043C1,Rostock,3,3,3,2,2
+DE044C1,Kaiserslautern,1,1,1,1,1
+DE045C1,Iserlohn,3,3,3,3,2
+DE046C1,Esslingen am Neckar,5,5,5,5,5
+DE047C1,Hanau,5,5,5,5,5
+DE048C1,Wilhelmshaven,1,1,1,1,1
+DE049C1,Ludwigsburg,3,3,3,3,3
+DE050C1,TÅbingen,5,4,4,4,4
+DE051C1,Villingen-Schwenningen,1,1,1,1,1
+DE052C1,Flensburg,1,1,1,1,1
+DE053C1,Marburg,5,5,5,5,5
+DE054C1,Konstanz,2,2,2,2,2
+DE055C1,NeumÅnster,1,1,1,1,1
+DE056C1,Brandenburg an der Havel,5,5,5,5,5
+DE057C1,Gie·en,3,3,3,3,3
+DE058C1,LÅneburg,4,4,4,4,4
+DE059C1,Bayreuth,2,2,2,2,2
+DE060C1,Celle,5,5,5,5,5
+DE061C1,Aschaffenburg,4,4,4,4,4
+DE062C1,Bamberg,4,4,5,4,4
+DE063C1,Plauen,3,3,3,3,3
+DE064C1,Neubrandenburg,4,3,3,3,3
+DE065C1,Fulda,2,2,2,2,2
+DE066C1,Kempten (AllgÑu),4,4,4,4,4
+DE067C1,Landshut,4,4,5,5,5
+DE068C1,Sindelfingen,1,1,1,1,1
+DE069C1,Rosenheim,5,5,5,5,5
+DE070C1,Frankenthal (Pfalz),3,3,3,4,4
+DE071C1,Stralsund,1,1,1,1,1
+DE072C1,Friedrichshafen,2,2,2,2,2
+DE073C1,Offenburg,4,4,4,5,5
+DE074C1,Gîrlitz,3,3,3,3,3
+DE075C1,Sankt Augustin,3,3,3,3,3
+DE076C1,Neu-Ulm,4,4,4,4,4
+DE077C1,Schweinfurt,5,5,5,5,5
+DE078C1,Greifswald,1,1,1,1,1
+DE079C1,Wetzlar,5,5,5,4,4
+DE080C1,Speyer,5,5,5,5,5
+DE081C1,Passau,3,4,4,3,3
+DE082C1,Dessau-Ro·lau,4,4,4,4,4
+DE501C1,Duisburg,4,4,4,4,4
+DE502C1,Mannheim,4,4,4,4,4
+DE503C1,Gelsenkirchen,3,3,3,3,3
+DE504C1,MÅnster,3,3,3,2,2
+DE505C1,Chemnitz,3,3,3,3,3
+DE506C1,Braunschweig,3,3,3,3,3
+DE507C1,Aachen,1,1,1,1,1
+DE508C1,Krefeld,4,4,4,3,3
+DE509C1,Oberhausen,4,5,5,4,4
+DE510C1,LÅbeck,3,3,3,3,3
+DE511C1,Hagen,3,3,3,3,3
+DE513C1,Kassel,3,3,3,3,3
+DE514C1,Hamm,3,3,3,3,3
+DE515C1,Herne,3,3,3,3,3
+DE516C1,Solingen,2,2,2,2,2
+DE517C1,OsnabrÅck,4,4,4,4,4
+DE518C1,Ludwigshafen am Rhein,4,4,4,4,3
+DE519C1,Leverkusen,4,4,4,4,4
+DE520C1,Oldenburg (Oldenburg),5,5,5,5,5
+DE521C1,Neuss,4,4,4,4,4
+DE522C1,Heidelberg,4,4,4,4,4
+DE523C1,Paderborn,3,3,3,3,3
+DE524C1,WÅrzburg,4,4,4,4,4
+DE525C1,Recklinghausen,1,3,3,2,2
+DE526C1,Wolfsburg,4,3,3,3,3
+DE527C1,Bremerhaven,4,4,4,4,4
+DE528C1,Bottrop,4,4,4,4,4
+DE529C1,Heilbronn,5,5,5,5,5
+DE530C1,Remscheid,2,2,2,2,2
+DE531C1,Offenbach am Main,5,5,5,5,5
+DE532C1,Ulm,5,5,5,5,5
+DE533C1,Pforzheim,5,5,5,5,5
+DE534C1,Ingolstadt,5,4,4,4,4
+DE535C1,Gera,5,5,5,5,5
+DE536C1,Salzgitter,2,2,2,2,2
+DE537C1,Reutlingen,3,2,2,2,2
+DE538C1,FÅrth,2,2,2,2,2
+DE539C1,Cottbus,4,4,4,4,4
+DE540C1,Siegen,5,4,4,4,4
+DE541C1,Bergisch Gladbach,1,1,1,1,1
+DE542C1,Hildesheim,3,3,3,3,3
+DE543C1,Witten,2,2,2,2,2
+DE544C1,Zwickau,4,4,4,4,4
+DE545C1,Erlangen,2,2,2,2,2
+DE546C1,Wuppertal,3,3,3,3,3
+DE547C1,Jena,5,5,5,5,5
+DK001K2,Kõbenhavn,1,1,1,1,1
+DK002C1,èrhus,1,1,1,1,1
+DK003C1,Odense,2,2,2,2,2
+DK004C2,Aalborg,2,2,2,2,2
+EE001C1,Tallinn,3,3,3,3,3
+EE002C1,Tartu,4,4,4,5,5
+EE003C1,Narva,1,1,1,1,1
+EL001K1,Athina,1,1,1,1,1
+EL002C1,Thessaloniki,1,1,1,1,1
+EL003C1,P†tra,1,1,1,1,1
+EL004C1,Irakleio,1,1,1,1,1
+EL005C1,Larisa,5,5,5,5,5
+EL006C1,Volos,1,1,1,1,1
+EL007C1,Ioannina,1,1,1,1,1
+EL008C1,Kavala,1,1,1,1,1
+EL009C1,Kalamata,3,2,2,2,2
+ES001C1,Madrid,3,3,3,3,3
+ES002K1,Barcelona,4,5,5,4,4
+ES003C1,Valencia,4,4,4,4,4
+ES004C1,Sevilla,5,5,5,5,5
+ES005C1,Zaragoza,4,4,4,4,4
+ES006C1,M†laga,4,4,4,4,4
+ES007C1,Murcia,5,4,4,5,5
+ES008C1,Las Palmas,1,1,1,1,1
+ES009C1,Valladolid,5,5,5,5,5
+ES010C1,Palma de Mallorca,1,1,1,1,1
+ES011C1,Santiago de Compostela,2,2,2,2,2
+ES012C1,Vitoria/Gasteiz,3,3,3,3,3
+ES013C1,Oviedo,3,3,3,3,2
+ES014C1,Pamplona/Iru§a,5,5,5,5,5
+ES015C1,Santander,1,1,1,1,1
+ES016C1,Toledo,4,4,4,4,4
+ES017C1,Badajoz,4,4,4,4,4
+ES018C1,Logro§o,5,4,4,4,4
+ES019K1,Bilbao,5,4,4,4,4
+ES020C1,C¢rdoba,4,4,4,4,4
+ES021C1,Alicante/Alacant,1,1,1,1,1
+ES022C1,Vigo,1,1,1,1,1
+ES023C1,Gij¢n,1,1,1,1,1
+ES025C1,Santa Cruz de Tenerife,1,1,1,1,1
+ES026C1,A Coru§a,1,1,1,1,1
+ES028C1,Reus,1,1,1,1,1
+ES029C1,Telde,1,1,1,1,1
+ES030C1,Parla,1,1,1,1,1
+ES031C1,Lugo,2,2,2,2,2
+ES032C1,San Fernando,1,1,1,1,1
+ES033C1,Girona,5,5,5,5,5
+ES034C1,C†ceres,2,2,2,2,2
+ES035C1,Torrevieja,1,1,1,1,1
+ES036C1,Pozuelo de Alarc¢n,1,1,1,1,1
+ES037C1,"Puerto de Santa Mar°a, El",3,4,4,3,3
+ES038C1,Coslada,2,2,2,2,2
+ES039C1,AvilÇs,1,1,1,1,1
+ES040C1,Talavera de la Reina,4,4,4,4,4
+ES041C1,Palencia,4,3,3,3,3
+ES042C1,Sant Boi de Llobregat,3,3,3,3,3
+ES043C1,Ferrol,1,1,1,1,1
+ES044C1,Pontevedra,1,1,1,1,1
+ES045C1,Ceuta,1,1,1,1,1
+ES046C1,Gandia,5,5,5,5,5
+ES047C1,"Rozas de Madrid, Las",2,2,2,2,2
+ES048C1,Guadalajara,4,3,3,3,3
+ES050C1,Manresa,3,3,3,3,4
+ES053C1,Ciudad Real,3,3,3,3,3
+ES054C1,Benidorm,1,1,1,1,1
+ES055C1,Melilla,1,1,1,1,1
+ES056C1,Viladecans,1,1,1,1,1
+ES057C1,Ponferrada,3,3,3,3,3
+ES058C1,San Sebasti†n de los Reyes,4,3,3,4,4
+ES059C1,Zamora,5,4,4,4,4
+ES060C1,Fuengirola,1,1,1,1,1
+ES062C1,Sanl£car de Barrameda,5,5,5,5,5
+ES063C1,Vilanova i la Geltr£,1,1,1,1,1
+ES065C1,"L°nea de la Concepci¢n, La",1,1,1,1,1
+ES067C1,Majadahonda,2,2,2,2,2
+ES068C1,Torremolinos,1,1,1,1,1
+ES069C1,Castelldefels,1,1,1,1,1
+ES070C1,Irun,3,3,3,3,3
+ES071C1,Granollers,1,1,1,1,1
+ES073C1,Elda,4,4,4,4,4
+ES074C1,Santa Luc°a de Tirajana,1,1,1,1,1
+ES075C1,Mollet del Valläs,3,4,3,3,3
+ES501C1,Granada,3,3,3,3,3
+ES504C1,M¢stoles,3,3,3,3,3
+ES505C1,Elche/Elx,4,3,3,4,4
+ES506C1,Cartagena,2,2,2,2,2
+ES508C1,Jerez de la Frontera,3,3,3,3,3
+ES509C1,Fuenlabrada,1,1,1,1,1
+ES510C1,San Sebasti†n/Donostia,2,2,2,2,3
+ES511C1,Alcal† de Henares,4,4,4,4,4
+ES512C1,Terrassa,1,1,1,1,1
+ES513C1,LeganÇs,1,1,1,1,1
+ES514C1,Almer°a,5,5,5,5,5
+ES515C1,Burgos,5,5,5,5,5
+ES516C1,Salamanca,4,4,4,4,4
+ES517C1,Alcorc¢n,1,1,1,1,1
+ES518C1,Getafe,2,2,2,3,3
+ES519C1,Albacete,3,3,3,4,4
+ES520C1,Castell¢n de la Plana/Castell¢ de la Plana,3,3,3,2,2
+ES521C1,Huelva,4,4,4,4,4
+ES522C1,C†diz,1,1,1,1,1
+ES523C1,Le¢n,5,5,5,4,4
+ES524C1,San Crist¢bal de la Laguna,1,1,1,1,1
+ES525C1,Tarragona,4,3,3,3,3
+ES527C1,JaÇn,2,2,2,2,2
+ES528C1,Lleida,3,3,3,3,3
+ES529C1,Ourense,3,3,3,3,3
+ES530C1,Matar¢,1,1,1,1,1
+ES531C1,Dos Hermanas,5,5,5,5,5
+ES532C1,Algeciras,1,1,1,1,1
+ES533C1,Marbella,1,1,1,1,1
+ES534C1,Torrej¢n de Ardoz,3,3,2,3,3
+ES535C1,Alcobendas,3,2,2,2,2
+FI001K2,Helsinki / Helsingfors,2,2,2,3,3
+FI002C1,Tampere / Tammerfors,2,2,2,2,2
+FI003C1,Turku / èbo,3,3,3,3,3
+FI004C2,Oulu / UleÜborg,2,2,2,2,2
+FI007C1,Lahti / Lahtis,2,2,2,2,2
+FI008C1,Kuopio,2,2,2,2,2
+FI009C1,JyvÑskylÑ,2,2,2,2,2
+FR001K1,Paris,5,5,5,5,5
+FR003C2,Lyon,4,4,4,4,4
+FR004C2,Toulouse,3,3,4,4,4
+FR006C2,Strasbourg,4,4,4,4,4
+FR007C1,Bordeaux,4,4,4,4,4
+FR008C1,Nantes,5,5,5,5,5
+FR009C1,Lille,4,4,4,4,4
+FR010C1,Montpellier,3,3,3,3,3
+FR011C1,Saint-Etienne,2,3,3,3,3
+FR012C1,Le Havre,1,1,1,1,1
+FR013C2,Rennes,3,3,3,3,3
+FR014C2,Amiens,4,4,4,4,4
+FR016C1,Nancy,4,4,4,4,4
+FR017C2,Metz,4,4,4,5,5
+FR018C1,Reims,4,4,4,4,4
+FR019C1,OrlÇans,4,4,4,4,4
+FR020C2,Dijon,4,4,4,4,4
+FR021C2,Poitiers,2,3,3,3,3
+FR022C2,Clermont-Ferrand,2,2,2,2,2
+FR023C2,Caen,3,3,3,3,3
+FR024C2,Limoges,2,2,2,2,2
+FR025C1,Besanáon,3,3,3,3,3
+FR026C2,Grenoble,4,4,4,4,4
+FR027C1,Ajaccio,1,1,1,1,1
+FR032C2,Toulon,3,3,3,3,3
+FR034C2,Valenciennes,4,4,4,4,4
+FR035C2,Tours,5,5,5,5,5
+FR036C2,Angers,4,4,4,4,4
+FR037C1,Brest,1,1,1,1,1
+FR038C2,Le Mans,5,5,5,5,5
+FR039C2,Avignon,5,5,5,5,5
+FR040C2,Mulhouse,4,4,4,4,4
+FR042C1,Dunkerque,3,3,3,3,3
+FR043C2,Perpignan,3,3,3,3,3
+FR044C2,Nimes,3,2,2,2,2
+FR045C2,Pau,3,3,3,3,3
+FR046C2,Bayonne,4,4,4,4,4
+FR047C2,Annemasse,3,3,3,3,3
+FR048C1,Annecy,5,5,5,5,4
+FR049C2,Lorient,2,3,3,3,3
+FR050C2,Montbelliard,5,5,5,5,5
+FR051C2,Troyes,5,5,5,5,5
+FR052C2,Saint-Nazaire,3,3,3,3,3
+FR053C1,La Rochelle,2,2,2,2,2
+FR056C1,Angouläme,4,4,4,4,4
+FR057C2,Boulogne-sur-mer,1,1,1,1,1
+FR058C2,Chambery,4,3,3,4,4
+FR059C2,Chalon-sur-Saìne,3,3,3,3,3
+FR060C2,Chartres,3,3,3,3,3
+FR061C2,Niort,3,3,3,3,3
+FR062C1,Calais,1,1,1,1,1
+FR063C2,BÇziers,4,4,4,3,3
+FR064C2,Arras,2,2,3,3,3
+FR065C2,Bourges,3,3,3,3,3
+FR066C1,Saint-Brieuc,1,1,1,1,1
+FR067C2,Quimper,1,1,1,1,1
+FR068C2,Vannes,1,1,1,1,1
+FR069C1,Cherbourg,1,1,1,1,1
+FR073C2,Tarbes,3,3,3,3,3
+FR074C2,Compiägne,5,5,5,5,5
+FR076C2,Belfort,2,2,2,2,2
+FR077C1,Roanne,3,3,3,3,3
+FR079C2,Saint-Quentin,1,1,1,1,1
+FR082C2,Beauvais,3,3,3,3,3
+FR084C1,Creil,5,5,5,5,5
+FR086C2,Evreux,4,4,4,4,4
+FR090C2,ChÉteauroux,3,3,3,3,3
+FR093C2,Brive-la-Gaillarde,4,4,4,4,4
+FR096C2,Albi,3,3,3,3,3
+FR099C1,FrÇjus,5,5,4,4,4
+FR104C2,ChÉlons-en-Champagne,4,4,4,4,4
+FR201C1,Aubagne,1,1,1,1,1
+FR202C1,Aix-en-Provence,3,3,3,3,3
+FR203C1,Marseille,3,3,3,3,3
+FR205C2,Nice,3,3,3,3,3
+FR206C1,CA de Sophia-Antipolis,1,1,1,1,1
+FR207C1,Lens - LiÇvin,2,2,2,2,2
+FR208C1,HÇnin - Carvin,1,2,2,2,2
+FR209C2,Douai,3,3,3,3,3
+FR210C1,Marne la VallÇe,4,4,4,4,4
+FR211C1,Versailles,1,1,1,1,1
+FR212C1,CC de la Boucle de la Seine,5,5,5,5,5
+FR213C1,SÇnart en Essonne,3,4,4,4,4
+FR214C1,Valence,3,3,3,3,3
+FR215C2,Rouen,5,5,5,5,5
+FR216C1,CA Marne et Chantereine,5,5,5,5,5
+FR217C1,CA des deux Rives de la Seine,5,5,5,5,5
+FR218C1,CC des Coteaux de la Seine,4,4,4,4,4
+FR219C1,CA Europ' Essonne,4,4,4,4,4
+FR220C1,CA Brie Francilienne,1,1,1,1,1
+FR221C1,CA les Portes de l'Essonne,5,5,5,5,5
+FR222C1,CA Val et Foràt,1,1,1,1,1
+FR223C1,CC de l'Ouest de la Plaine de France,1,1,1,1,1
+FR224C1,CA le Parisis,3,3,4,3,3
+FR304C1,Melun,4,4,4,5,5
+FR305C1,Meaux,4,4,4,4,4
+FR306C1,Mantes en Yvelines,4,4,4,4,4
+FR308C1,Evry,4,4,4,4,4
+FR309C1,CA du Plateau de Saclay,1,1,1,1,1
+FR310C1,CA de Seine Essonne,5,5,5,5,5
+FR311C1,CA du Val d'Irge,2,2,3,3,3
+FR312C1,CA du Val d'Yerres,5,5,5,5,5
+FR313C1,CA SÇnart - Val de Seine,4,5,5,5,5
+FR322C1,CA Val de France,1,1,1,1,1
+FR323C1,CA de la VallÇe de Montmorency,1,1,1,1,1
+FR324C1,Martigues,5,4,4,5,5
+FR501C1,Argenteuil - Bezons,5,5,5,5,5
+FR504C1,Cergy-Pontoise,4,4,4,4,4
+FR505C1,Charleville-MÇziäres,5,5,5,5,5
+FR506C1,Colmar,4,4,4,4,4
+FR512C1,CA des Lacs de l'Essonne,5,5,5,5,5
+FR518C1,Saint-Quentin en Yvelines,1,1,1,1,1
+HR001C1,Zagreb,4,4,4,5,5
+HR002C1,Rijeka,1,1,1,1,1
+HR003C1,Slavonski Brod,3,4,4,4,4
+HR004C1,Osijek,5,5,5,5,5
+HR005C1,Split,1,1,1,1,1
+HU001C1,Budapest,3,3,3,3,3
+HU002C1,Miskolc,5,4,4,4,4
+HU003C1,Ny°regyh†za,4,3,3,3,3
+HU004C1,PÇcs,1,1,1,1,1
+HU005C1,Debrecen,2,2,2,2,2
+HU006C1,Szeged,5,5,5,5,5
+HU007C1,Gy‰r,5,5,5,5,5
+HU008C1,KecskemÇt,1,1,1,1,1
+HU009C1,SzÇkesfehÇrv†r,3,3,3,2,2
+HU010C1,Szombathely,5,5,5,5,5
+IE001K1,Dublin,4,4,4,3,3
+IE002C1,Cork,4,4,4,4,4
+IE003C1,Limerick,4,4,4,4,4
+IE004C1,Galway,3,3,3,3,3
+IE005C1,Waterford,5,4,5,4,4
+IT001C1,Roma,4,4,4,4,4
+IT002K1,Milano,4,4,4,4,4
+IT003K1,Napoli,3,3,3,3,3
+IT004C1,Torino,5,5,5,5,5
+IT005C1,Palermo,1,1,1,1,1
+IT006C1,Genova,1,1,1,1,1
+IT007C1,Firenze,5,5,5,5,5
+IT008C1,Bari,2,2,2,2,2
+IT009C1,Bologna,3,3,3,3,3
+IT010C1,Catania,5,5,5,5,5
+IT011C1,Venezia,2,3,3,3,3
+IT012C1,Verona,4,4,4,4,4
+IT013C1,Cremona,2,2,2,2,2
+IT014C1,Trento,4,5,5,5,5
+IT015C1,Trieste,1,1,1,1,1
+IT016C1,Perugia,3,3,3,3,3
+IT017C1,Ancona,1,1,1,1,1
+IT019C1,Pescara,5,5,5,5,5
+IT020C1,Campobasso,1,1,1,1,1
+IT021C1,Caserta,1,1,1,1,1
+IT022C1,Taranto,1,1,1,1,1
+IT023C1,Potenza,2,2,2,2,2
+IT024C1,Catanzaro,1,1,1,1,1
+IT025C1,Reggio di Calabria,1,1,1,1,1
+IT026C1,Sassari,1,2,2,2,2
+IT027C1,Cagliari,1,1,1,1,1
+IT028C1,Padova,5,5,5,5,5
+IT029C1,Brescia,4,4,4,4,4
+IT030C1,Modena,4,4,4,4,5
+IT031C1,Foggia,2,3,2,2,2
+IT032C1,Salerno,1,1,1,1,1
+IT033C1,Piacenza,5,5,5,5,5
+IT034C1,Bolzano,5,5,5,5,5
+IT035C1,Udine,1,1,1,1,1
+IT036C1,La Spezia,1,1,1,1,1
+IT037C1,Lecce,1,1,1,1,1
+IT038C1,Barletta,3,2,2,2,2
+IT039C1,Pesaro,5,5,5,5,5
+IT040C1,Como,1,1,1,2,2
+IT041C1,Pisa,4,4,4,4,4
+IT042C1,Treviso,4,5,5,5,5
+IT043C1,Varese,1,1,1,1,1
+IT044C1,Busto Arsizio,1,1,1,1,1
+IT045C1,Asti,3,3,3,3,3
+IT046C1,Pavia,3,3,3,3,3
+IT047C1,Massa,1,1,1,1,1
+IT048C1,Cosenza,5,5,5,5,5
+IT049C1,Carrara,1,1,1,1,1
+IT050C1,Benevento,4,4,4,4,4
+IT051C1,Sanremo,1,1,1,1,1
+IT052C1,Savona,1,1,1,1,1
+IT053C1,Vigevano,5,5,5,5,5
+IT054C1,Matera,3,2,2,2,2
+IT055C1,Viareggio,1,1,1,1,1
+IT056C1,Acireale,1,1,1,1,1
+IT057C1,Avellino,2,2,2,2,2
+IT058C1,Pordenone,3,3,3,3,3
+IT059C1,Biella,1,1,1,1,1
+IT060C1,Lecco,3,3,3,3,3
+IT501C1,Messina,1,1,1,1,1
+IT502C1,Prato,3,3,4,4,4
+IT503C1,Parma,4,4,4,4,4
+IT504C1,Livorno,1,1,1,1,1
+IT505C1,Reggio nell'Emilia,2,2,2,2,2
+IT506C1,Ravenna,5,5,5,5,5
+IT507C1,Ferrara,5,5,5,5,5
+IT508C1,Rimini,4,4,4,4,4
+IT509C1,Siracusa,1,1,1,1,1
+IT511C1,Bergamo,1,1,1,1,1
+IT512C1,Forlç,3,3,3,3,3
+IT513C1,Latina,3,3,3,3,3
+IT514C1,Vicenza,5,5,5,5,5
+IT515C1,Terni,4,4,4,4,4
+IT516C1,Novara,3,3,3,3,3
+LT001C1,Vilnius,4,4,3,3,3
+LT002C1,Kaunas,4,3,3,4,4
+LT003C1,Paneve?ys,3,3,3,3,3
+LT004C1,Alytus,3,3,3,3,3
+LT501C1,Klaipeda,1,1,1,1,1
+LT502C1,?iauliai,1,1,1,1,1
+LU001C1,Luxembourg,4,4,5,5,5
+LV001C1,Riga,5,5,5,5,5
+LV002C1,Liepaja,4,5,5,4,4
+LV003C1,Jelgava,5,5,5,5,5
+LV501C1,Daugavpils,4,4,4,4,4
+MT001C1,Valletta,1,1,1,1,1
+NL001C1,'s-Gravenhage,1,1,1,1,1
+NL002K1,Amsterdam,4,4,4,4,4
+NL003K1,Rotterdam,1,1,1,1,1
+NL004C1,Utrecht,2,2,2,3,3
+NL005C1,Eindhoven,5,5,5,5,5
+NL006C1,Tilburg,2,2,2,2,2
+NL007C1,Groningen,5,5,5,5,5
+NL008C1,Enschede,1,1,1,1,1
+NL009C1,Arnhem,1,1,1,1,1
+NL010C1,Heerlen,1,1,1,1,1
+NL011C1,Almere,1,1,1,1,1
+NL012C1,Breda,5,5,5,5,5
+NL013C1,Nijmegen,4,5,5,5,5
+NL014C1,Apeldoorn,2,2,2,2,2
+NL015C1,Leeuwarden,3,3,3,3,3
+NL016C1,Sittard-Geleen,4,4,4,4,4
+NL017C1,Delft,1,1,1,1,1
+NL018C1,Hilversum,3,3,3,3,3
+NL020C1,Roosendaal,1,1,1,1,1
+NL022C1,Leidschendam-Voorburg,1,1,1,1,1
+NL023C1,Purmerend,1,1,1,1,1
+NL025C1,Velsen,1,1,1,1,1
+NL026C1,Alphen aan den Rijn,5,5,5,5,5
+NL028C1,Bergen op Zoom,1,1,1,1,1
+NL029C1,Katwijk,1,1,1,1,1
+NL030C1,Gouda,1,1,1,1,1
+NL031C1,Hoorn,1,1,1,1,1
+NL032C1,Middelburg,1,1,1,1,1
+NL501C1,Haarlem,1,1,1,1,1
+NL503C1,'s-Hertogenbosch,5,5,5,5,5
+NL504C1,Amersfoort,5,5,5,5,5
+NL505C1,Maastricht,5,5,5,5,5
+NL506C1,Dordrecht,1,1,1,1,1
+NL507C1,Leiden,1,1,1,1,1
+NL508C1,Haarlemmermeer,2,2,2,2,2
+NL509C1,Zoetermeer,5,5,5,5,5
+NL511C1,Zwolle,5,5,5,5,5
+NL512C1,Ede,2,2,2,2,2
+NL513C1,Deventer,3,3,3,3,3
+NL514C1,Alkmaar,2,2,2,2,2
+NL515C1,Venlo,3,3,3,3,3
+NL516C1,Helmond,5,5,5,5,5
+NL517C1,Hengelo,1,1,1,1,1
+NL519C1,Almelo,4,4,4,4,4
+NL520C1,Lelystad,1,1,1,1,1
+PL001C1,Warszawa,4,5,5,5,5
+PL002C1,L¢dz,2,2,2,2,2
+PL003C1,Krak¢w,3,4,4,4,4
+PL004C1,Wroclaw,5,5,5,5,5
+PL005C1,Poznan,4,4,4,4,4
+PL006C1,Gdansk,4,4,4,4,4
+PL007C1,Szczecin,5,5,5,4,4
+PL008C1,Bydgoszcz,4,4,4,4,4
+PL009C1,Lublin,3,4,4,3,3
+PL010K1,G¢rno?l?ski Zwi?zek Metropolitalny - Katowice,2,2,2,2,2
+PL011C1,Bialystok,2,2,2,2,2
+PL012C1,Kielce,3,2,2,2,2
+PL013C1,Torun,3,3,3,3,3
+PL014C1,Olsztyn,4,4,4,4,4
+PL015C1,Rzesz¢w,3,3,3,3,3
+PL016C1,Opole,4,5,5,4,4
+PL017C1,Gorz¢w Wielkopolski,5,5,5,5,5
+PL018C1,Zielona G¢ra,1,1,1,1,1
+PL019C1,Jelenia G¢ra,3,3,3,3,3
+PL020C1,Nowy Sacz,3,3,3,3,3
+PL021C1,Suwalki,1,1,1,1,1
+PL022C1,Konin,5,5,5,5,5
+PL023C1,Zory,1,1,1,1,1
+PL024C1,Czestochowa,4,4,4,4,4
+PL025C1,Radom,2,2,2,2,2
+PL026C1,Plock,3,3,3,3,3
+PL027C1,Kalisz,5,5,5,5,5
+PL028C1,Koszalin,1,1,1,1,1
+PL029C1,Slupsk,5,5,5,5,5
+PL030C1,Jastrzebie-Zdr¢j,1,1,1,1,1
+PL031C1,Siedlce,2,2,2,2,2
+PL032C1,Piotrk¢w Trybunalski,1,1,1,1,1
+PL033C1,Lubin,1,1,1,1,1
+PL034C1,Pila,5,5,5,5,5
+PL035C1,Inowroclaw,5,4,4,4,4
+PL036C1,Ostrowiec Swietokrzyski,4,4,4,4,4
+PL037C1,Gniezno,1,1,1,1,1
+PL038C1,Stargard Szczecinski,5,5,5,5,5
+PL039C1,Ostr¢w Wielkopolski,1,1,1,1,1
+PL040C1,Przemysl,3,3,3,3,3
+PL041C1,Zamosc,2,2,2,3,3
+PL042C1,Chelm,1,1,1,1,1
+PL043C1,Pabianice,1,1,1,1,1
+PL044C1,Glog¢w,5,5,5,5,5
+PL045C1,Stalowa Wola,3,3,3,3,3
+PL046C1,Tomasz¢w Mazowiecki,5,5,5,5,5
+PL047C1,Lomza,5,5,5,5,5
+PL048C1,Leszno,1,1,1,1,1
+PL049C1,Swidnica,1,1,1,1,1
+PL050C1,Zgierz,1,1,1,1,1
+PL051C1,Tczew,3,3,3,3,3
+PL052C1,Elk,4,4,4,4,4
+PL501C1,Gdynia,1,1,1,1,1
+PL506C1,Bielsko-Biala,1,1,1,1,1
+PL508C1,Rybnik,2,2,2,2,2
+PL511C1,Walbrzych,1,1,1,1,1
+PL512C1,Elblag,5,5,5,5,5
+PL513C1,Wloclawek,4,4,4,4,4
+PL514C1,Tarn¢w,3,4,4,5,5
+PL516C1,Legnica,4,4,4,4,4
+PL517C1,Grudziadz,3,3,3,3,3
+PT001K1,Lisboa,1,1,1,1,1
+PT002K1,Porto,4,4,4,4,4
+PT003C1,Braga,2,2,2,2,2
+PT005C1,Coimbra,3,3,3,3,3
+PT006C1,Set£bal,1,1,1,1,1
+PT008C1,Aveiro,4,4,4,4,4
+PT009C1,Faro,1,1,1,1,1
+PT014C1,Viseu,2,2,2,2,2
+PT016C1,Viana do Castelo,2,2,2,2,2
+PT017C1,Paredes,4,4,4,4,4
+PT019C1,P¢voa de Varzim,2,2,2,2,2
+PT501C1,Sintra,1,1,1,1,1
+PT505C1,Guimar∆es,3,3,3,3,3
+PT508C1,Vila Franca de Xira,5,5,5,5,5
+RO001C1,Bucuresti,5,5,5,5,5
+RO002C1,Cluj-Napoca,4,4,4,4,4
+RO003C1,Timisoara,5,5,5,5,5
+RO004C1,Craiova,2,3,3,2,2
+RO005C1,Braila,5,5,5,5,5
+RO006C1,Oradea,5,5,4,4,4
+RO007C1,Bacau,5,5,5,5,5
+RO008C1,Arad,5,5,5,5,5
+RO009C1,Sibiu,4,4,3,3,3
+RO010C1,TÉrgu Mures,4,4,4,4,4
+RO011C1,Piatra Neamt,5,4,4,4,4
+RO012C1,Calarasi,4,4,4,4,4
+RO013C1,Giurgiu,4,5,5,5,5
+RO014C1,Alba Iulia,5,5,5,5,5
+RO015C1,Focsani,2,2,2,2,2
+RO016C1,TÉrgu Jiu,3,3,3,3,3
+RO017C1,Tulcea,5,5,5,5,5
+RO018C1,TÉrgoviste,2,2,2,2,2
+RO019C1,Slatina,2,2,2,2,2
+RO020C1,BÉrlad,5,5,5,5,5
+RO021C1,Roman,4,4,4,4,4
+RO022C1,Bistrita,3,3,3,3,3
+RO501C1,Constanta,1,1,1,1,1
+RO502C1,Iasi,5,5,5,5,5
+RO503C1,Galati,5,5,5,5,5
+RO504C1,Brasov,2,2,2,2,2
+RO505C1,Ploiesti,2,2,2,2,2
+RO506C1,Pitesti,5,5,5,5,5
+RO507C1,Baia Mare,5,5,5,5,5
+RO508C1,Buzau,3,3,3,3,2
+RO509C1,Satu Mare,5,5,5,5,5
+RO510C1,Botosani,1,1,1,1,1
+RO511C1,RÉmnicu VÉlcea,3,3,3,3,3
+RO512C1,Suceava,3,3,3,3,3
+RO513C1,Drobeta-Turnu Severin,5,5,5,5,5
+SE001K1,Stockholm,2,2,2,2,2
+SE002C1,Gîteborg,3,3,3,3,3
+SE003C1,Malmî,2,2,2,1,1
+SE004C1,Jînkîping,2,2,2,2,2
+SE005C1,UmeÜ,2,2,2,2,2
+SE006C1,Uppsala,2,2,2,2,2
+SE007C1,Linkîping,2,2,2,2,2
+SE008C1,ôrebro,2,2,2,2,2
+SE501C1,VÑsterÜs,2,2,2,2,2
+SE502C1,Norrkîping,2,2,2,2,2
+SE503C1,Helsingborg,1,1,1,1,1
+SE504C1,Lund,2,2,2,2,2
+SE505C1,BorÜs,2,2,2,2,2
+SI001C1,Ljubljana,4,4,4,5,5
+SI002C1,Maribor,3,3,3,3,3
+SK001C1,Bratislava,4,3,3,3,3
+SK002C1,Ko?ice,3,3,3,3,3
+SK003C1,Bansk† Bystrica,4,4,4,4,4
+SK004C1,Nitra,5,5,5,5,5
+SK005C1,Pre?ov,5,5,5,5,5
+SK006C1,?ilina,5,5,5,5,5
+SK007C1,Trnava,2,2,2,2,2
+SK008C1,Trenc°n,3,3,3,3,3
+UK001K2,London,5,5,5,5,5
+UK002K1,Birmingham,3,3,3,3,3
+UK003C1,Leeds,4,4,4,4,4
+UK004C1,Glasgow,4,4,4,4,4
+UK005C1,Bradford,2,2,2,2,2
+UK006K1,Liverpool,2,2,2,2,2
+UK007C1,Edinburgh,1,1,1,1,1
+UK008K1,Greater Manchester,4,4,4,4,4
+UK009C1,Cardiff,5,5,5,5,5
+UK010C1,Sheffield,3,2,2,3,3
+UK011C1,Bristol,4,4,4,5,5
+UK012C1,Belfast,4,5,4,4,4
+UK013K1,Tyneside conurbation - Newcastle upon Tyne,5,4,4,5,5
+UK014K1,Leicester,5,4,4,4,4
+UK015C1,Derry,3,2,2,2,2
+UK016C1,Aberdeen,3,4,4,4,4
+UK017C1,Cambridge,4,4,4,4,4
+UK018C1,Exeter,4,4,4,4,4
+UK019C1,Lincoln,5,5,5,5,5
+UK020C1,Gravesham,2,2,2,2,2
+UK021C1,Stevenage,1,1,1,1,1
+UK022C1,Wrexham,2,2,2,2,2
+UK023K1,Portsmouth,1,1,1,1,1
+UK024C1,Worcester,3,3,3,3,3
+UK025C1,Coventry,2,2,2,2,2
+UK026C1,Kingston-upon-Hull,5,5,5,5,5
+UK027C1,Stoke-on-trent,1,1,1,1,1
+UK029K1,Greater Nottingham,4,4,4,4,4
+UK030C1,Wirral,1,1,1,1,1
+UK031C1,Bath and North East Somerset,3,3,3,3,3
+UK032C1,Thurrock,2,2,2,2,2
+UK033C1,Guildford,3,3,3,3,3
+UK034C1,Thanet,1,1,1,1,1
+UK035C1,Nuneaton and Bedworth,1,1,1,1,1
+UK038C1,Waveney,3,3,3,3,3
+UK040C1,Tunbridge Wells,2,2,2,2,2
+UK041C1,Ashford,2,2,2,2,2
+UK043C1,East Staffordshire,5,5,5,5,5
+UK044C1,Darlington,2,2,2,2,2
+UK045C1,Worthing,1,1,1,1,1
+UK046C1,Mansfield,1,1,1,1,1
+UK047C1,Chesterfield,2,2,2,2,2
+UK050C1,Burnley,1,1,1,1,1
+UK051C1,Great Yarmouth,5,5,5,5,5
+UK052C1,Woking,4,4,4,4,4
+UK053C1,Hartlepool,1,1,1,1,1
+UK054C1,Cannock Chase,3,4,4,4,4
+UK055C1,Eastbourne,1,1,1,1,1
+UK056C1,Hastings,1,1,1,1,1
+UK057C1,Hyndburn,3,3,3,3,3
+UK059C1,Redditch,1,1,1,1,1
+UK060C1,Tamworth,5,5,5,5,5
+UK061C1,Harlow,2,2,2,2,2
+UK062C1,Halton,2,3,3,3,3
+UK501C1,Kirklees,4,4,4,4,4
+UK502C1,North Lanarkshire,2,2,2,2,2
+UK503C1,Wakefield,4,4,4,4,4
+UK506C1,Doncaster,4,4,4,4,4
+UK510C1,Sunderland,3,4,4,4,4
+UK513C1,Medway,2,2,2,2,3
+UK514C1,Rotherham,3,3,3,4,4
+UK515C1,Brighton and Hove,1,1,1,1,1
+UK516C1,Plymouth,1,1,1,1,1
+UK517C1,Swansea,1,1,1,1,1
+UK518C1,Derby,5,5,5,5,5
+UK519C1,Barnsley,2,3,3,3,3
+UK520C1,Southampton,2,3,3,3,3
+UK525C1,Milton Keynes,3,3,3,3,3
+UK528C1,Northampton,3,3,3,3,3
+UK531C1,Warrington,5,5,5,5,5
+UK532C1,Luton,1,1,1,1,1
+UK533C1,York,3,3,3,3,3
+UK535C1,Swindon,2,2,2,2,2
+UK536C1,Stockton-on-Tees,4,4,4,4,4
+UK538C1,Basildon,1,1,1,1,1
+UK539C1,Bournemouth,2,3,3,3,3
+UK540C1,Wycombe,3,3,3,4,4
+UK541K1,Southend-on-Sea,1,1,1,1,1
+UK542C1,Telford and Wrekin,2,2,2,2,2
+UK543C1,North East Lincolnshire,1,1,1,1,1
+UK544C1,Chelmsford,2,2,2,2,3
+UK545C1,Peterborough,3,3,3,3,3
+UK546C1,Colchester,2,2,2,2,2
+UK548C1,Basingstoke and Deane,2,2,2,2,2
+UK549C1,Bedford,3,3,3,3,4
+UK550C1,Dundee City,1,1,1,1,1
+UK551C1,Falkirk,2,2,2,2,2
+UK552K1,Reading,4,4,4,4,4
+UK553C1,Blackpool,1,1,1,1,1
+UK554C1,Maidstone,2,2,2,3,3
+UK555C1,Poole,2,2,2,2,2
+UK556C1,Dacorum,1,1,1,1,1
+UK557C1,Blackburn with Darwen,1,1,1,1,1
+UK558C1,Newport,3,3,3,3,3
+UK559C1,Middlesbrough,4,4,4,4,4
+UK560C1,Oxford,5,5,5,5,5
+UK561C1,Torbay,1,1,1,1,1
+UK562K1,Preston,3,3,3,3,3
+UK563C1,St Albans,3,3,3,3,3
+UK564C1,Warwick,3,3,3,3,3
+UK565C1,Newcastle-under-Lyme,1,1,1,1,1
+UK566C1,Norwich,4,4,4,4,4
+UK567C1,Slough,5,5,5,5,5
+UK568C2,Cheshire West and Chester,2,2,2,2,2
+UK569C1,Ipswich,1,1,1,1,1
+UK571C1,Cheltenham,1,1,1,1,1
+UK572C1,Gloucester,3,3,3,3,3
+UK573C1,Bracknell Forest,1,1,1,1,1
+UK574C1,Lisburn,2,2,2,2,2
+UK575C1,Carlisle,5,5,5,5,5
+UK576C1,Crawley,1,1,1,1,1
